@@ -1,18 +1,21 @@
 # Youtube_video_data_classification
+Jupyter Notebooks -
+Classification_youtube_data.ipynb - For applying different Machine Learning Models
+Youtubedata_data_api_complete.ipynb - For scarping youtube data
+
 Classifying youtube videos (basedon description) in following categories –
 
+1.Travel Blogs
 
-Travel Blogs
+2.Science and Technology
 
-Science and Technology
+3.Food
 
-Food
+4.Manufacturing
 
-Manufacturing
+5.History
 
-History
-
-Art and Music
+6.Art and Music
 
 
 Please Read Approach PDF to know more
