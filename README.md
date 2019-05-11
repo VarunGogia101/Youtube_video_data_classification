@@ -1,7 +1,8 @@
 # Youtube_video_data_classification
 Jupyter Notebooks -
 
-Classification_youtube_data.ipynb - For applying different Machine Learning Models
+Classification_youtube_data_cor.ipynb , LSTM-Classification-Youtube-data.ipynb - For applying different Machine Learning Models
+
 Youtubedata_data_api_complete.ipynb - For scarping youtube data
 
 Classifying youtube videos (basedon description) in following categories –
